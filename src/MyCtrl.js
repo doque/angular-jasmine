@@ -4,4 +4,4 @@ app.controller('MyCtrl', ['$scope',
 			return a + b;
 		}
 	}
-])
+]);
